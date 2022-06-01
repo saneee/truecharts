@@ -1,1 +1,1 @@
-FROM tccr.io/truecharts/flexget:3.3.10
+FROM tccr.io/truecharts/flexget:v3.3.10
